@@ -159,7 +159,7 @@ ul {
 .order-service {
     background-color: #2E2F42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url("/images/HW4/background-foto.jpg");
+        url("/images/background-foto.jpg");
     background-size: cover;
     height: 600px;
     padding: 188px 0;
